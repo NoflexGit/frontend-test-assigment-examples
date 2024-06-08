@@ -1,0 +1,12 @@
+.component {
+  display: flex;
+  gap: 16px;
+  padding-top: 1rem;
+  border-top: 1px solid #cbd5e1;
+}
+
+.input {
+  padding: 0.5rem 1rem;
+  border-radius: 0.5rem;
+  border: 1px solid #64748b;
+}

@@ -1,0 +1,23 @@
+.component {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  border: 1px solid #cbd5e1;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+.text {
+  display: flex;
+  flex-direction: column;
+}
+
+.text h3 {
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.text p {
+  font-size: 12px;
+  color: #475569;
+}
